@@ -1,3 +1,3 @@
 # javascriptMiniProject
-This mini-application uses CSS property 
-***filter*** to apply visual effects to an element(image)
+This mini-application uses CSS
+***filter*** property to apply visual effects to an element(image)
